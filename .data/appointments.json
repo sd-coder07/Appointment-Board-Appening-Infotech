@@ -1,0 +1,90 @@
+[
+  {
+    "id": "seed-appt-1",
+    "title": "Engineering Team Standup",
+    "description": "Daily synchronization on sprint blockers, PR reviews, and deployment roadmap.",
+    "date": "2026-09-13",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "status": "SCHEDULED",
+    "createdAt": "2026-09-12T19:25:47.074Z",
+    "updatedAt": "2026-09-12T19:25:47.074Z"
+  },
+  {
+    "id": "seed-appt-2",
+    "title": "Ad-hoc Sync (Back to Back)",
+    "description": "Follow-up discussion on deployment automation immediately following standup.",
+    "date": "2026-09-13",
+    "startTime": "10:30",
+    "endTime": "11:00",
+    "status": "SCHEDULED",
+    "createdAt": "2026-09-12T19:25:47.074Z",
+    "updatedAt": "2026-09-12T19:25:47.074Z"
+  },
+  {
+    "id": "seed-appt-3",
+    "title": "Enterprise Client Strategy Meeting",
+    "description": "Q4 product requirement walk-through and SLA agreement review.",
+    "date": "2026-09-13",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "status": "SCHEDULED",
+    "createdAt": "2026-09-12T19:25:47.074Z",
+    "updatedAt": "2026-09-12T19:25:47.074Z"
+  },
+  {
+    "id": "seed-appt-4",
+    "title": "Architecture & Code Review",
+    "description": "Deep dive review into appointment conflict-detection and indexing logic.",
+    "date": "2026-09-13",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "status": "COMPLETED",
+    "createdAt": "2026-09-12T19:25:47.074Z",
+    "updatedAt": "2026-09-12T19:25:47.074Z"
+  },
+  {
+    "id": "seed-appt-5",
+    "title": "Product Roadmap Discussion",
+    "description": "Aligning next sprint priorities with product managers and stakeholders.",
+    "date": "2026-09-14",
+    "startTime": "10:00",
+    "endTime": "11:00",
+    "status": "SCHEDULED",
+    "createdAt": "2026-09-12T19:25:47.075Z",
+    "updatedAt": "2026-09-12T19:25:47.075Z"
+  },
+  {
+    "id": "seed-appt-6",
+    "title": "Design System Sync (Cancelled)",
+    "description": "Figma UI/UX component alignment session with frontend engineering.",
+    "date": "2026-09-14",
+    "startTime": "14:00",
+    "endTime": "15:00",
+    "status": "CANCELLED",
+    "createdAt": "2026-09-12T19:25:47.075Z",
+    "updatedAt": "2026-09-12T19:25:47.075Z"
+  },
+  {
+    "id": "seed-appt-7",
+    "title": "Sprint Retrospective & Demo",
+    "description": "Sprint closeout, accomplishments review, and process improvements.",
+    "date": "2026-09-15",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "status": "SCHEDULED",
+    "createdAt": "2026-09-12T19:25:47.075Z",
+    "updatedAt": "2026-09-12T19:25:47.075Z"
+  },
+  {
+    "id": "seed-appt-8",
+    "title": "Mobile App Wireframe Review",
+    "description": "Early concept review for iOS & Android companion applications.",
+    "date": "2026-09-15",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "status": "CANCELLED",
+    "createdAt": "2026-09-12T19:25:47.075Z",
+    "updatedAt": "2026-09-12T19:25:47.075Z"
+  }
+]
